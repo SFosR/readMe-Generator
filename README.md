@@ -1,8 +1,8 @@
 
   ## Title
-  lsl
+  READMe
   ## Description
-  sll
+  Create a professional README file
   ## Table of Contents
   - [Instructions](#instructions)
   - [Application Usage](#usage)
@@ -11,15 +11,15 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Instructions
-  sl
+  Created using command-line application and Node
   ## Usage
-  sl
+  Node
   ##License
-  sl
+  MIT
   ## Contributors
-  sl
+  Sheri Foster
   ## Github
-  sl
+  github.com/SFosR
   ## Email
-  sl 
+  fostr.sheri@gmail.com 
  
